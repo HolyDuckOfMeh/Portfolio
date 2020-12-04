@@ -1,13 +1,20 @@
 <!-- Navbar -->
     <div class='navbar-grid'>
         <div class='navbar-img'>
-            <img style='height: 40px; width 40px;' src='./View/Public/Images/FOXHOUND.jpg'>
+            <div class='bio-img'>
+            <img style='height: 40px; width 40px; border-radius: 20px;' src='./View/Public/Images/FOXHOUND.jpg' onclick="linkGit()">
+                <script>
+                    function linkGit(){
+                    window.open("https://github.com/HolyDuckOfMeh", "_blank");
+                    }
+                </script>
+            </div>
         </div>
         <div class='navbar-name'>
-            <h2>HolyDuckOfMeh</h2> 
+            <p>HolyDuckOfMeh</p> 
         </div>
-            <a href="" class='navbar-home-btn btn btn-success' style ='background: rgba(0, 0, 0, 0.0); border-right: none;'>Home</a> 
-            <a href="" class='navbar-projects-btn btn btn-success' style ='background: rgba(0, 0, 0, 0.0); border-right: none;'>Projects</a> 
-            <a href="" class='navbar-contact-btn btn btn-success' style ='background: rgba(0, 0, 0, 0.0); border-right: none;'>Contact Me</a> 
+            <a href="http://localhost/FIT-Web-Course/Portfolio/home.php" class='navbar-home-btn btn btn-success' style ='background: rgba(0, 0, 0, 0.0);'>Home</a> 
+            <a href="http://localhost/FIT-Web-Course/Portfolio/projects.php" class='navbar-projects-btn btn btn-success' style ='background: rgba(0, 0, 0, 0.0);'>Projects</a> 
+            <a href="http://localhost/FIT-Web-Course/Portfolio/contact.php" class='navbar-contact-btn btn btn-success' style ='background: rgba(0, 0, 0, 0.0);'>Contact Me</a> 
     </div>
 <!-- Navbar -->
