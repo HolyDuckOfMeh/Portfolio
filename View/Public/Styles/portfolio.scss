@@ -1,0 +1,81 @@
+html,
+body{
+    height: auto;
+    background-color: #232533;
+    margin: 0;
+}
+
+.page-grid{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto auto auto;
+}
+
+// .scrollable-element {
+//     scrollbar-color: #348fff #282a39;
+//     scrollbar-width: thin;
+// }
+
+/* navbar */
+
+    .navbar-grid{
+        display: grid;
+        grid-column: 1;
+        grid-row: 1;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+        grid-template-rows: auto;
+        background-color: #282a39;
+        box-shadow: 5px;
+    }
+
+    .navbar-img{
+        grid-column: 1;
+    }
+
+    .navbar-name{
+        grid-column: 2;
+
+    }
+
+    .navbar-home-btn{
+        grid-column: 3;
+        float: right;
+        margin: auto;
+        margin-left: 20%;
+        padding: 7px 30px 7px 30px;
+        font-weight: lighter;
+        border: none;
+
+    }
+
+    .navbar-projects-btn{
+        grid-column: 4;
+        float: right;
+        margin: auto;
+        margin-left: 20%;
+        padding: 7px 30px 7px 30px;
+        font-weight: lighter;
+        border: none;
+
+    }
+
+    .navbar-contact-btn{
+        grid-column: 5;
+        float: right;
+        margin: auto;
+        margin-left: 20%;
+        padding: 7px 30px 7px 30px;
+        font-weight: lighter;
+        border: none;
+    }
+
+/* navbar */
+
+/* home */
+
+.home-grid{
+    display: grid;
+
+}
+
+/* home */
