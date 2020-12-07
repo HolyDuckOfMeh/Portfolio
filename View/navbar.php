@@ -1,14 +1,12 @@
 <!-- Navbar -->
     <div class='navbar-grid'>
         <div class='navbar-img'>
-            <div class='bio-img'>
             <img style='height: 40px; width 40px; border-radius: 20px;' src='./View/Public/Images/FOXHOUND.jpg' onclick="linkGit()">
                 <script>
                     function linkGit(){
                     window.open("https://github.com/HolyDuckOfMeh", "_blank");
                     }
                 </script>
-            </div>
         </div>
         <div class='navbar-name'>
             <p>HolyDuckOfMeh</p> 

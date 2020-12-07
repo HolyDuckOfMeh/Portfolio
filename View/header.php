@@ -19,10 +19,13 @@
     <!-- Scripts -->
 
   <style>
-    
+    *{
+      font-family: 'Segoe UI','Frutiger','Frutiger Linotype','Dejavu Sans','Helvetica Neue','Arial','sans-serif'; 
+    }
+
   </style>
 
-    <title>Testing :)</title>
+    <title>Zheng Portfolio</title>
 </head>
 
 <body>
