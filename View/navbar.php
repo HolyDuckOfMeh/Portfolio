@@ -11,7 +11,7 @@
         <div class='navbar-name'>
             <p>HolyDuckOfMeh</p> 
         </div>
-            <a href="http://localhost/FIT-Web-Course/Portfolio/home.php" class='navbar-home-btn btn btn-success' style ='background: rgba(0, 0, 0, 0.0);'>Home</a> 
+            <a href="http://localhost/FIT-Web-Course/Portfolio/index.php" class='navbar-home-btn btn btn-success' style ='background: rgba(0, 0, 0, 0.0);'>Home</a> 
             <a href="http://localhost/FIT-Web-Course/Portfolio/projects.php" class='navbar-projects-btn btn btn-success' style ='background: rgba(0, 0, 0, 0.0);'>Projects</a> 
             <a href="http://localhost/FIT-Web-Course/Portfolio/contact.php" class='navbar-contact-btn btn btn-success' style ='background: rgba(0, 0, 0, 0.0);'>Contact Me</a> 
     </div>
