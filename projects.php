@@ -16,7 +16,7 @@
 
       <!-- Corn-Puter Computers -->
         <div style="background-image: url('./View/Public/Images/Corn.png'); background-size: 100px; background: cover; border: solid 2px gray;">
-          <h1 onclick="document.getElementById('site').src = './ProjectCC/home.php'"
+          <h1 onclick="document.getElementById('site').src = './ProjectCC/index.php'"
             >Corn-Puter<br>Computers
           </h1>
         </div>

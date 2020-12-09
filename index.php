@@ -30,7 +30,7 @@
 
 <!-- The contact me button on the about me section -->
     <div class='about-contact-btn'>
-        <a href='http://localhost/FIT-Web-Course/Portfolio/contact.php'>Contact Me</a>
+        <a href='./contact.php'>Contact Me</a>
     </div>
 <!-- The contact me button on the about me section -->
 

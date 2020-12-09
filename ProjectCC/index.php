@@ -29,7 +29,7 @@
         <div class='home-featured-desc'>
           <p>Check out our latest builds with sleek designs.</p>
         </div>
-        <a href="http://localhost/FIT-Web-Course/ProjectCC/featured-builds.php" class='btn-home-featured btn btn-success'>Featured Builds</a> 
+        <a href="./featured-builds.php" class='btn-home-featured btn btn-success'>Featured Builds</a> 
         <div class='home-featured-img'>
         <img class='home-featured-img' src='./View/Public/Images/PCBuild.jpg'>
         </div>
